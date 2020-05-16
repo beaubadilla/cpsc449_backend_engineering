@@ -1,0 +1,5 @@
+users: FLASK_APP=users.py flask run -p $PORT
+descriptions: FLASK_APP=descriptions.py flask run -p $PORT
+playlist: FLASK_APP=playlist.py flask run -p $PORT
+track: FLASK_APP=track.py flask run -p $PORT
+xspf: FLASK_APP=xspfPlaylist.py flask run -p $PORT
