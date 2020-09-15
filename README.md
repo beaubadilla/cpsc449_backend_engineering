@@ -13,7 +13,7 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
+  * [Technologies](#technologies)
   * [Code Snippets](#code-snippets)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
@@ -30,7 +30,7 @@ This project simulates the back-end for a music playlist creation app(users, tra
 * **microservices-3**: Assigned to the <ins>Developer</ins> role, my responsibility was creating a wide-column database and converting all our SQL queries into CQL queries.
 
 
-### Built With
+### Technologies
 Languages: Python 3.x, SQL/CQL
 * microservices - [Flask](https://flask.palletsprojects.com/en/1.1.x/), [PugSQL](https://pugsql.org/), [SQLite](https://docs.python.org/3/library/sqlite3.html)
 * microservices-2 - [Kong Gateway](https://konghq.com/kong/)
